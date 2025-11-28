@@ -1,0 +1,9 @@
+langchain
+langchain-openai
+langchain-community
+beautifulsoup4
+pandas
+googlesearch-python
+python-dotenv
+requests
+streamlit
