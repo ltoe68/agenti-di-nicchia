@@ -1,0 +1,5 @@
+order_id,status,location,delivery_date
+12345,In Transit,Bologna Hub,2023-11-30
+67890,Delivered,Milan,2023-11-25
+11223,Processing,Warehouse A,2023-12-01
+55555,Exception,Customs Hold,Unknown
